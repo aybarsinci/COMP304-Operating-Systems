@@ -1,6 +1,6 @@
 # COMP304-Operating-Systems
 
-##Projects
+## Projects
 
 [Project 1](https://github.com/aybarsinci/seashell) 
 
